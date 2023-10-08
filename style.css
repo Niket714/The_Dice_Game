@@ -1,0 +1,32 @@
+body{
+    background-color:#393E46 ;
+}
+
+.heading{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 8rem;
+    font-family: 'Lobster', cursive;
+    color: #4ECCA3;
+    text-shadow: 5px 2px 2px #232931;
+    margin-bottom: 3rem;
+}
+
+.dice{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 2rem;
+    color: #4ECCA3;
+    text-shadow: 5px 0 #232931;
+}
+.player{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    color: #4ECCA3;
+    font-size: 1.5rem;
+}
